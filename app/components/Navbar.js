@@ -135,7 +135,7 @@ function Navbar() {
 
   return (
     <>
-      <nav className="px-[5vw] py-3 flex justify-between items-center bg-black" >
+      <nav className="px-[5vw] py-3 flex justify-between items-center" >
         <div className="box flex gap-2 items-center cursor-pointer">
           <img
             width={45}
